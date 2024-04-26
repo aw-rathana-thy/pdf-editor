@@ -380,7 +380,7 @@ if (typeof PDFJSDev === "undefined" || !PDFJSDev.test("MOZCENTRAL")) {
     value:
       typeof PDFJSDev !== "undefined" && PDFJSDev.test("CHROME")
         ? ""
-        : "compressed.tracemonkey-pldi-09.pdf",
+        : "test.pdf",
     kind: OptionKind.VIEWER,
   };
   defaultOptions.sandboxBundleSrc = {
