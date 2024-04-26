@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist-custom",
+  "name": "@allweb/pdfjs-dist-custom",
   "type": "module",
   "devDependencies": {
     "@babel/core": "^7.24.4",
